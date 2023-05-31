@@ -2,7 +2,7 @@ Vorachet's MBSE, defense, security articles
 
 ## SAAC-LSAT-NGSW: the US Army programs that modernize small arms systems
 
-22 December, 2022
+May 31, 2023
 
 This article presents the US Army programs that modernize small arms systems.
 
